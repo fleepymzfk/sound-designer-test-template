@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2385628198	footsteps			\Default Work Unit\footsteps	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	233511089	ftsp9	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\ftsp9_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\ftsp9		633864
+	380005413	ftsp2	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\ftsp2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\ftsp2		633864
+	544003920	ftsp5	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\ftsp5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\ftsp5		633864
+	612775382	ftsp3	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\ftsp3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\ftsp3		633864
+	744079493	ftsp8	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\ftsp8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\ftsp8		633864
+	850182933	ftsp6	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\ftsp6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\ftsp6		633864
+	895536197	ftsp4	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\ftsp4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\ftsp4		633864
+	1008678083	ftsp1	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\ftsp1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\ftsp1		650996
+	1042989837	ftsp7	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\ftsp7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\ftsp7		633864
+

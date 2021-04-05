@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1629897140	jumpbegin			\Default Work Unit\jumpbegin	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	360564640	jumpbegin	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\jumpbegin_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\jumpbegin		633864
+

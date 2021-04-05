@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	657744959	lamp			\Default Work Unit\lamp	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	621950587	Lampa	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\Lampa_5B83A207.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lampa		4529412
+

@@ -4,6 +4,7 @@ using UnityEngine;
 using KinematicCharacterController;
 using System;
 
+
 namespace KinematicCharacterController.Examples
 {
     public enum CharacterState
@@ -88,6 +89,8 @@ namespace KinematicCharacterController.Examples
         private Vector3 lastInnerNormal = Vector3.zero;
         private Vector3 lastOuterNormal = Vector3.zero;
 
+        private static float stepSound;
+
         private void Awake()
         {
             // Handle initial state
@@ -95,7 +98,17 @@ namespace KinematicCharacterController.Examples
 
             // Assign the characterController to the motor
             Motor.CharacterController = this;
+
+            AkSoundEngine.PostEvent("padik", gameObject);
+
+
+
         }
+
+       // private void OnAkCallback(AkCallbackType in_eType, AkCallbackInfo in_pCallbackInfo)
+       // {
+        //    AkSoundEngine.PostEvent("padik", gameObject, 1, OnAkCallback);
+       // }
 
         /// <summary>
         /// Handles movement state transitions and enter/exit callbacks
@@ -237,6 +250,15 @@ namespace KinematicCharacterController.Examples
 
                             // Set the current rotation (which will be used by the KinematicCharacterMotor)
                             currentRotation = Quaternion.LookRotation(smoothedLookInputDirection, Motor.CharacterUp);
+
+                            if (stepSound > 20*deltaTime)
+                            {
+                                AkSoundEngine.PostEvent("footsteps", gameObject);
+                                stepSound = 0;
+                            } else
+                            {
+                                stepSound += deltaTime;
+                            }
                         }
 
                         Vector3 currentUp = (currentRotation * Vector3.up);
@@ -506,6 +528,7 @@ namespace KinematicCharacterController.Examples
                 case CharacterState.Default:
                     {
                         _internalVelocityAdd += velocity;
+
                         break;
                     }
             }
@@ -517,10 +540,12 @@ namespace KinematicCharacterController.Examples
 
         protected void OnLanded()
         {
+            AkSoundEngine.PostEvent("jumpend", gameObject);
         }
 
         protected void OnLeaveStableGround()
         {
+            AkSoundEngine.PostEvent("jumpbegin", gameObject);
         }
 
         public void OnDiscreteCollisionDetected(Collider hitCollider)

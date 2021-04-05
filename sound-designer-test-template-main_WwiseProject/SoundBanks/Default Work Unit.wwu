@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{70C80553-4A5C-4738-ABF3-20E910F1DD6B}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{70C80553-4A5C-4738-ABF3-20E910F1DD6B}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="footsteps" ID="{66561777-960E-41A9-BB42-BF35F0EEC3B2}">
+					<ObjectInclusionList>
+						<ObjectRef Name="footsteps" ID="{87A4F7FC-4468-4D10-BA57-31AD5B846F06}" WorkUnitID="{504254C7-87B8-48C3-B12A-4D585D957BF7}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="jumpbegin" ID="{9E5DFE3E-F16A-4FA1-8627-4B270CCCB70A}">
+					<ObjectInclusionList>
+						<ObjectRef Name="jumpbegin" ID="{338FD99C-DF5D-4329-A6CD-D94F80AE47A7}" WorkUnitID="{504254C7-87B8-48C3-B12A-4D585D957BF7}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="jumpend" ID="{780E271F-9A55-4177-865A-F45ADC744DDB}">
+					<ObjectInclusionList>
+						<ObjectRef Name="jumpend" ID="{21C85F67-9E78-4542-907D-01FAD7C516A5}" WorkUnitID="{504254C7-87B8-48C3-B12A-4D585D957BF7}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="padik" ID="{9B1EB0D7-ECC6-4CE0-8D5E-52ED6C208EE4}">
+					<ObjectInclusionList>
+						<ObjectRef Name="padik" ID="{DBAE9A7D-9256-4FA0-9E12-C7D4A8091304}" WorkUnitID="{504254C7-87B8-48C3-B12A-4D585D957BF7}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="lamp" ID="{3E5E0F00-95E7-487E-A3D4-7F8D20A27F50}">
+					<ObjectInclusionList>
+						<ObjectRef Name="lamp" ID="{EE505E0A-06AE-4FF8-AFF6-41DC1C992017}" WorkUnitID="{504254C7-87B8-48C3-B12A-4D585D957BF7}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="door1" ID="{58329F6F-8234-4179-A32F-83A411CB9DDE}">
+					<ObjectInclusionList>
+						<ObjectRef Name="door1" ID="{5461F965-9AF2-4677-89AF-83B4007203E9}" WorkUnitID="{504254C7-87B8-48C3-B12A-4D585D957BF7}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="door2" ID="{FCAD9C66-712B-4506-B908-67E6C69B00E9}">
+					<ObjectInclusionList>
+						<ObjectRef Name="door2" ID="{DBE466C0-0610-4424-93D9-C1BB5F0BE77B}" WorkUnitID="{504254C7-87B8-48C3-B12A-4D585D957BF7}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="door3" ID="{ACF327FD-91FD-4340-B129-F81EF0B88122}">
+					<ObjectInclusionList>
+						<ObjectRef Name="door3" ID="{E14D47BA-17BC-4BF1-B901-FA6E63AA2553}" WorkUnitID="{504254C7-87B8-48C3-B12A-4D585D957BF7}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="door4" ID="{34624BA9-9DBA-4822-B150-3C3423239AAA}">
+					<ObjectInclusionList>
+						<ObjectRef Name="door4" ID="{7A37930E-2A23-40EF-882D-5CED573D931E}" WorkUnitID="{504254C7-87B8-48C3-B12A-4D585D957BF7}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

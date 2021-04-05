@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>/Users/macoc/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/test example RAV/sound-designer-test-template-main/sound-designer-test-template-main_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/macoc/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/test example RAV/sound-designer-test-template-main/sound-designer-test-template-main_WwiseProject/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/macoc/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/test example RAV/sound-designer-test-template-main/sound-designer-test-template-main_WwiseProject/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/macoc/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/test example RAV/sound-designer-test-template-main/sound-designer-test-template-main_WwiseProject/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="70128584" Language="SFX" Hash="411777912">
+			<ObjectPath>\SoundBanks\Default Work Unit\jumpend</ObjectPath>
+			<ShortName>jumpend</ShortName>
+			<Path>jumpend.bnk</Path>
+			<IncludedEvents>
+				<Event Id="70128584" Name="jumpend" ObjectPath="\Events\Default Work Unit\jumpend" DurationType="OneShot" DurationMin="3.592971" DurationMax="3.592971">
+					<IncludedMemoryFiles>
+						<File Id="553189063" Language="SFX">
+							<ShortName>jumpend.wav</ShortName>
+							<Path>SFX/jumpend_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="657744959" Language="SFX" Hash="4281262103">
+			<ObjectPath>\SoundBanks\Default Work Unit\lamp</ObjectPath>
+			<ShortName>lamp</ShortName>
+			<Path>lamp.bnk</Path>
+			<IncludedEvents>
+				<Event Id="657744959" Name="lamp" ObjectPath="\Events\Default Work Unit\lamp" MaxAttenuation="6.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="621950587" Language="SFX">
+							<ShortName>Lampa.wav</ShortName>
+							<Path>SFX/Lampa_5B83A207.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2100456014">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="348963605" Name="reverb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\reverb"/>
+			</IncludedAuxBusses>
+		</SoundBank>
+		<SoundBank Id="1629897140" Language="SFX" Hash="3615389782">
+			<ObjectPath>\SoundBanks\Default Work Unit\jumpbegin</ObjectPath>
+			<ShortName>jumpbegin</ShortName>
+			<Path>jumpbegin.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1629897140" Name="jumpbegin" ObjectPath="\Events\Default Work Unit\jumpbegin" DurationType="OneShot" DurationMin="3.592971" DurationMax="3.592971">
+					<IncludedMemoryFiles>
+						<File Id="360564640" Language="SFX">
+							<ShortName>jumpbegin.wav</ShortName>
+							<Path>SFX/jumpbegin_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2150195971" Language="SFX" Hash="1356928289">
+			<ObjectPath>\SoundBanks\Default Work Unit\door4</ObjectPath>
+			<ShortName>door4</ShortName>
+			<Path>door4.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2150195971" Name="door4" ObjectPath="\Events\Default Work Unit\door4" MaxAttenuation="2.000000" DurationType="OneShot" DurationMin="54.153355" DurationMax="54.153355">
+					<IncludedMemoryFiles>
+						<File Id="561549954" Language="SFX">
+							<ShortName>door4.wav</ShortName>
+							<Path>SFX/door4_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2150195972" Language="SFX" Hash="3657862897">
+			<ObjectPath>\SoundBanks\Default Work Unit\door3</ObjectPath>
+			<ShortName>door3</ShortName>
+			<Path>door3.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2150195972" Name="door3" ObjectPath="\Events\Default Work Unit\door3" MaxAttenuation="2.000000" DurationType="OneShot" DurationMin="76.000000" DurationMax="76.000000">
+					<IncludedMemoryFiles>
+						<File Id="135450423" Language="SFX">
+							<ShortName>door3.wav</ShortName>
+							<Path>SFX/door3_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2150195973" Language="SFX" Hash="509074777">
+			<ObjectPath>\SoundBanks\Default Work Unit\door2</ObjectPath>
+			<ShortName>door2</ShortName>
+			<Path>door2.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2150195973" Name="door2" ObjectPath="\Events\Default Work Unit\door2" MaxAttenuation="2.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="995826016" Language="SFX">
+							<ShortName>door2.wav</ShortName>
+							<Path>SFX/door2_EF43B2D4.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2150195974" Language="SFX" Hash="1364767590">
+			<ObjectPath>\SoundBanks\Default Work Unit\door1</ObjectPath>
+			<ShortName>door1</ShortName>
+			<Path>door1.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2150195974" Name="door1" ObjectPath="\Events\Default Work Unit\door1" MaxAttenuation="2.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="614024238" Language="SFX">
+							<ShortName>tron race.wav</ShortName>
+							<Path>SFX/tron race_948C94C4.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="2385628198" Language="SFX" Hash="3020734556">
+			<ObjectPath>\SoundBanks\Default Work Unit\footsteps</ObjectPath>
+			<ShortName>footsteps</ShortName>
+			<Path>footsteps.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2385628198" Name="footsteps" ObjectPath="\Events\Default Work Unit\footsteps" DurationType="OneShot" DurationMin="3.592971" DurationMax="3.690091">
+					<IncludedMemoryFiles>
+						<File Id="233511089" Language="SFX">
+							<ShortName>ftsp9.wav</ShortName>
+							<Path>SFX/ftsp9_10C4C929.wem</Path>
+						</File>
+						<File Id="380005413" Language="SFX">
+							<ShortName>ftsp2.wav</ShortName>
+							<Path>SFX/ftsp2_10C4C929.wem</Path>
+						</File>
+						<File Id="544003920" Language="SFX">
+							<ShortName>ftsp5.wav</ShortName>
+							<Path>SFX/ftsp5_10C4C929.wem</Path>
+						</File>
+						<File Id="612775382" Language="SFX">
+							<ShortName>ftsp3.wav</ShortName>
+							<Path>SFX/ftsp3_10C4C929.wem</Path>
+						</File>
+						<File Id="744079493" Language="SFX">
+							<ShortName>ftsp8.wav</ShortName>
+							<Path>SFX/ftsp8_10C4C929.wem</Path>
+						</File>
+						<File Id="850182933" Language="SFX">
+							<ShortName>ftsp6.wav</ShortName>
+							<Path>SFX/ftsp6_10C4C929.wem</Path>
+						</File>
+						<File Id="895536197" Language="SFX">
+							<ShortName>ftsp4.wav</ShortName>
+							<Path>SFX/ftsp4_10C4C929.wem</Path>
+						</File>
+						<File Id="1008678083" Language="SFX">
+							<ShortName>ftsp1.wav</ShortName>
+							<Path>SFX/ftsp1_10C4C929.wem</Path>
+						</File>
+						<File Id="1042989837" Language="SFX">
+							<ShortName>ftsp7.wav</ShortName>
+							<Path>SFX/ftsp7_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="3464210832" Language="SFX" Hash="162870325">
+			<ObjectPath>\SoundBanks\Default Work Unit\padik</ObjectPath>
+			<ShortName>padik</ShortName>
+			<Path>padik.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3464210832" Name="padik" ObjectPath="\Events\Default Work Unit\padik" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="1056012846" Language="SFX">
+							<ShortName>padik.wav</ShortName>
+							<Path>SFX/padik_56F50D83.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

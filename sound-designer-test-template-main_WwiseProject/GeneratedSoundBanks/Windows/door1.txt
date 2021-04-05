@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2150195974	door1			\Default Work Unit\door1	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	614024238	tron race	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\tron race_948C94C4.wem		\Actor-Mixer Hierarchy\Default Work Unit\tron race		15439168
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{76FC939F-959A-40F1-8F1F-1A2D0349DF1D}" SchemaVersion="103">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{76FC939F-959A-40F1-8F1F-1A2D0349DF1D}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="lamp" ID="{5641D1A5-C5E1-4E46-8AD9-07CD62E2DE82}">
+					<PropertyList>
+						<Property Name="BindToBuiltInParam" Type="int16" Value="1"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="10"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

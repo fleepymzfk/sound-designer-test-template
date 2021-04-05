@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2150195973	door2			\Default Work Unit\door2	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	995826016	door2	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\door2_EF43B2D4.wem		\Actor-Mixer Hierarchy\Default Work Unit\door2		9837304
+

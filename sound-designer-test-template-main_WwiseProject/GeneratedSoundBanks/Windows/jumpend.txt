@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	70128584	jumpend			\Default Work Unit\jumpend	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	553189063	jumpend	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\jumpend_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\jumpend		633864
+

@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3464210832	padik			\Default Work Unit\padik	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1056012846	padik	Y:\Documents\test example RAV\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\SFX\padik_56F50D83.wem		\Actor-Mixer Hierarchy\Default Work Unit\padik		4598288
+

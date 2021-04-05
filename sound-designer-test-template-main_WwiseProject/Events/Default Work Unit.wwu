@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{504254C7-87B8-48C3-B12A-4D585D957BF7}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{504254C7-87B8-48C3-B12A-4D585D957BF7}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="footsteps" ID="{87A4F7FC-4468-4D10-BA57-31AD5B846F06}">
+					<ChildrenList>
+						<Action Name="" ID="{7329E67A-708C-4795-9F50-BEEEDA7F2CC5}" ShortID="299860732">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="footsteps" ID="{3BF2AB9C-F3FD-40A8-A577-8BCCE833CCBD}" WorkUnitID="{AF6422FF-FF25-438E-B24F-CE0239A03745}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="jumpbegin" ID="{338FD99C-DF5D-4329-A6CD-D94F80AE47A7}">
+					<ChildrenList>
+						<Action Name="" ID="{CF53533D-C3E9-431A-9E14-02ECA244207C}" ShortID="1066862466">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="jumpbegin" ID="{097BA8C5-799F-46B7-8D96-F8EED30809BE}" WorkUnitID="{AF6422FF-FF25-438E-B24F-CE0239A03745}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="jumpend" ID="{21C85F67-9E78-4542-907D-01FAD7C516A5}">
+					<ChildrenList>
+						<Action Name="" ID="{4781D2F4-BC02-4207-90E4-0B981DABF8A2}" ShortID="151432545">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="jumpend" ID="{580078E1-8CC4-43E7-8984-AA46FF1500E5}" WorkUnitID="{AF6422FF-FF25-438E-B24F-CE0239A03745}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="padik" ID="{DBAE9A7D-9256-4FA0-9E12-C7D4A8091304}">
+					<ChildrenList>
+						<Action Name="" ID="{9EA4B0AD-8557-4577-8A46-7486E7203DFD}" ShortID="485109052">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="padik" ID="{00881F17-875F-471A-A99B-DFEF50788B08}" WorkUnitID="{AF6422FF-FF25-438E-B24F-CE0239A03745}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="lamp" ID="{EE505E0A-06AE-4FF8-AFF6-41DC1C992017}">
+					<ChildrenList>
+						<Action Name="" ID="{EEFAF0E0-9E46-4664-AC4B-0E3E2ADC034F}" ShortID="383091680">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Lampa" ID="{CCD0C180-7D1C-45EE-A414-4B65A566132D}" WorkUnitID="{AF6422FF-FF25-438E-B24F-CE0239A03745}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="door1" ID="{5461F965-9AF2-4677-89AF-83B4007203E9}">
+					<ChildrenList>
+						<Action Name="" ID="{4FC58767-79D4-43F5-B945-AE081E5A595E}" ShortID="664568811">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="tron race" ID="{11B312AB-47AB-42E2-9AAD-7541A48A09E5}" WorkUnitID="{AF6422FF-FF25-438E-B24F-CE0239A03745}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="door2" ID="{DBE466C0-0610-4424-93D9-C1BB5F0BE77B}">
+					<ChildrenList>
+						<Action Name="" ID="{3266D9BB-B702-4E44-803B-7F9BF54C1948}" ShortID="946450083">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="door2" ID="{ED631623-1D1C-4301-854C-EBC28E2DD180}" WorkUnitID="{AF6422FF-FF25-438E-B24F-CE0239A03745}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="door3" ID="{E14D47BA-17BC-4BF1-B901-FA6E63AA2553}">
+					<ChildrenList>
+						<Action Name="" ID="{2FB69AFF-7B28-485F-BECE-B7CB84480F14}" ShortID="720230141">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="door3" ID="{6808F90F-DC20-430A-95F2-10D8831F5C2F}" WorkUnitID="{AF6422FF-FF25-438E-B24F-CE0239A03745}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="door4" ID="{7A37930E-2A23-40EF-882D-5CED573D931E}">
+					<ChildrenList>
+						<Action Name="" ID="{F8325D5C-82DC-43BA-AF0A-4DC1545EBED4}" ShortID="849463323">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="door4" ID="{AF62E2E5-83C5-4F6F-8119-2D515B81EF77}" WorkUnitID="{AF6422FF-FF25-438E-B24F-CE0239A03745}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
